@@ -1,0 +1,46 @@
+display property in css
+1.block element:takes up the entire line.
+2.inline-block element:only takes up as much space as needed.
+3.inline element:appear within a line of text.(<strong></strong>)
+
+
+<div>:division(just a box)
+containers
+
+
+Nested LayOuts Technique
+-----------------------------
+1.vertical LayOut
+2.Horizaontal layout
+
+
+css grid
+-------------------------
+display:grid;
+
+rigid layout
+
+flexbox
+-------------------------
+is similar to css grid (but it is more flexible);
+it cantains the (outer div )containers.
+flexible layout
+width:0 (shrinks)
+flex-shrink:0;(do not shrink)
+
+position
+--------------------------------
+static is default
+position:fixed
+left
+right
+bottom
+top
+absolute position and relative
+--------------------------------------
+fixed:placed in th e browser window
+absolute:placed on the page
+z-index:0;absolute ele move down the header
+position:relative inside position:absolute
+
+fixed inside absolute 
